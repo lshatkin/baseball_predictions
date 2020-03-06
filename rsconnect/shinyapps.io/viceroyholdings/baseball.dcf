@@ -1,0 +1,13 @@
+name: baseball
+title: baseball
+username:
+account: viceroyholdings
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1914045
+bundleId: 2857422
+url: https://viceroyholdings.shinyapps.io/baseball/
+when: 1583506992.33287
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: EDA/Exploratory Analysis.R|EDA/KNN classification.R|EDA/pitches.R
